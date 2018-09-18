@@ -131,7 +131,7 @@ class Dashboard extends React.Component {
                 <MenuIcon />
               </IconButton>
               <Typography variant="title" color="inherit" noWrap className={classes.title}>
-                Dashboard
+                Uau Kitchen Dashboard
               </Typography>
               <IconButton color="inherit">
                 <Badge badgeContent={4} color="secondary">
